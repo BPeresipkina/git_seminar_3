@@ -51,11 +51,15 @@
 
 # Картинка
 
-
+![](https://api.interior.ru/media/images/setka/2020_08_02/IPPAWARDS-0152.jpg.webp)
 
 # Цвета
 
-
+* Черный
+* Белый
+* Красный
+* Желтый
+* Синий
 
 # Вкусы
 
